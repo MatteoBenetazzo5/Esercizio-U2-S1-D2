@@ -439,6 +439,8 @@ aside div .fa-tag {
   position: absolute;
   top: 8px;
   right: 10px;
+  font-size: 3em;
+  color: gray;
 }
 
 
